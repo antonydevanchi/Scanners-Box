@@ -7,7 +7,7 @@ English | [简体中文](./README_CN.md)
 <p align="center">
   <img src="https://img.shields.io/badge/version-2.0-blue.svg" alt="python 3.x">
   <img src="http://img.shields.io/badge/license-Mozilla-blue.svg?style=flat" alt="license">
- <img src="https://img.shields.io/badge/Scanners/Number-253-blue.svg" alt="number">
+ <img src="https://img.shields.io/badge/Scanners/Number-271-blue.svg" alt="number">
 </p>
 
 ## Introduction
@@ -34,6 +34,7 @@ English | [简体中文](./README_CN.md)
 - [Dynamic or Static Code Analysis](#dynamic-or-static-code-analysis)
 - [Modular Design Scanners or Vulnerability Detecting Framework](#modular-design-scanners-or-vulnerability-detecting-framework)
 - [Advanced Persistent Threat](#advanced-persistent-threat)
+- [Mobile Apps Code Analysis](#mobile-apps-code-analysis)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -153,6 +154,22 @@ English | [简体中文](./README_CN.md)
 
 > **Rating**: 🌟🌟🌟🌟🌟         |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
 
+- https://github.com/yunxu1/dnsub - **A high concurrency and cross platform subdomain scanner based on Golang**
+
+> **Rating**: 🌟🌟🌟🌟🌟         |         **Language**: **Go**         |         **Ongoing[last 6 months]**: ✔️
+
+- https://github.com/shmilylty/OneForAll - **An ultimate subdomains scanner integrated multiple subdomain scanning tools**
+
+> **Rating**: 🌟🌟🌟🌟🌟         |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
+
+- https://github.com/knownsec/ksubdomain - **A stateless and cross-platform subdomain enumeration tool, speed up to 30w/s on Mac and Windows, and 160w/s on Linux**
+
+> **Rating**: 🌟🌟🌟🌟🌟         |         **Language**: **Go**         |         **Ongoing[last 6 months]**: ✔️
+
+- https://github.com/gwen001/github-subdomains - **Find subdomains on GitHub**
+
+> **Rating**: 🌟🌟🌟🌟         |         **Language**: **Go**         |         **Ongoing[last 6 months]**: ✔️
+
 
 ### Database SQL Injection Vulnerability or Brute Force
 
@@ -215,6 +232,10 @@ English | [简体中文](./README_CN.md)
 - https://github.com/m8r0wn/enumdb  - **MySQL and MSSQL brute force and post exploitation tool**
 
 > **Rating**: 🌟🌟🌟🌟         |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
+
+- https://github.com/tariqhawis/injectbot  - **A web-based, easy-to-use, SQL injection scanner and exploiter tool**
+
+> **Rating**: 🌟🌟🌟🌟         |         **Language**: **PHP**         |         **Ongoing[last 6 months]**: ✔️
 
 
 ### Weak Usernames or Passwords Enumeration For Web
@@ -301,6 +322,20 @@ English | [简体中文](./README_CN.md)
 
 > **Rating**: 🌟🌟🌟🌟        |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
 
+- https://github.com/fcavallarin/domdig - **DOM XSS scanner for Single Page Applications**
+
+> **Rating**: 🌟🌟🌟🌟🌟        |         **Language**: **Node.js**         |         **Ongoing[last 6 months]**: ✔️
+
+- https://github.com/lwzSoviet/NoXss - **Faster reflected-xss and dom-xss scanner based on Phantomjs**
+
+> **Rating**: 🌟🌟🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✔️
+
+
+- https://github.com/pwn0sec/PwnXSS - **A powerful XSS scanner made in python 3.7**
+
+> **Rating**: 🌟🌟🌟🌟🌟        |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
+
+
 ### Enterprise Assets Management or Data Protection
 
 - https://github.com/ysrc/xunfeng - **Vulnerability rapid response,scanning system for intranet**
@@ -358,6 +393,18 @@ English | [简体中文](./README_CN.md)
 - https://github.com/VKSRC/Github-Monitor - **Github sensitive information leakage monitor by vipkid SRC**
 
 > **Rating**: 🌟🌟🌟        |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
+
+- https://github.com/eth0izzle/shhgit - **A docker and web based monitor for finding secrets and sensitive files across GitHub**
+
+> **Rating**: 🌟🌟🌟🌟🌟        |         **Language**: **Go**         |         **Ongoing[last 6 months]**: ✔️
+
+- https://github.com/SAP/credential-digger - **A GitHub scanning tool that identifies hardcoded credentials, filtering the false positive data through machine learning models.**
+
+> **Rating**: 🌟🌟🌟🌟🌟        |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
+
+- https://github.com/TophantTechnology/ARL - **An agile asset reconnaissance system**
+
+> **Rating**: 🌟🌟🌟🌟🌟        |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
 
 
 ### Malicious Scripts or Binary Malware Detection
@@ -643,6 +690,11 @@ English | [简体中文](./README_CN.md)
 - https://github.com/1N3/BlackWidow - **Gather OSINT and fuzz for OWASP vulnerabilities on a target website**
 
 > **Rating**: 🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+
+
+- https://github.com/saeeddhqan/Maryam - **OSINT and Web-based Footprinting modular framework based on the Recon-ng**
+
+> **Rating**: 🌟🌟🌟🌟        |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
 
 
 ### Special Components or Vulnerability Categories Scan
@@ -1009,7 +1061,7 @@ English | [简体中文](./README_CN.md)
 
 - https://github.com/Lucifer1993/AngelSword - **Web vulnerability scanner framework based on python3**
 
-> **Rating**: 🌟🌟🌟🌟        |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
+> **Rating**: 🌟🌟🌟🌟        |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✖️
 
 - https://github.com/zaproxy/zaproxy - **One of the world’s most popular free security tools and is actively maintained by hundreds of international volunteers**
 
@@ -1083,6 +1135,22 @@ English | [简体中文](./README_CN.md)
 
 > **Rating**: 🌟🌟🌟🌟🌟        |         **Language**: **Go**         |         **Ongoing[last 6 months]**: ✔️
 
+- https://github.com/TideSec/Mars - **The totally new generation of WDScanner**
+
+> **Rating**: 🌟🌟🌟🌟🌟        |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
+
+- https://github.com/knassar702/scant3r - **Yet another web security scanner**
+
+> **Rating**: 🌟🌟🌟        |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
+
+- https://github.com/google/tsunami-security-scanner - **A general purpose network security scanner with an extensible plugin system for detecting high severity vulnerabilities with high confidenc by Google**
+
+> **Rating**: 🌟🌟🌟🌟🌟        |         **Language**: **Java**         |         **Ongoing[last 6 months]**: ✔️
+
+- https://github.com/er10yi/MagiCude - **A scanner based on the Spring Boot micro-service,supports distributed port (vulnerability) scanning, asset security management, real-time threat monitoring and notification, vulnerability lifecycle, vulnerability wiki, email notification, etc**
+
+> **Rating**: 🌟🌟🌟🌟🌟        |         **Language**: **Java**         |         **Ongoing[last 6 months]**: ✔️
+
 
 ### Advanced Persistent Threat
 
@@ -1093,6 +1161,17 @@ English | [简体中文](./README_CN.md)
 - https://github.com/Neo23x0/Fenrir - **Simple IOC and Incident Response Scanner**
 
 > **Rating**: 🌟🌟🌟🌟🌟        |         **Language**: **Bash Shell**         |         **Ongoing[last 6 months]**: ✔️
+
+
+### Mobile Apps Code Analysis
+
+- https://github.com/dwisiswant0/apkleaks - **Scanning APK file for URIs, endpoints & secrets**
+
+> **Rating**: 🌟🌟🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✔️
+
+- https://github.com/kelvinBen/AppInfoScanner - **Collecting information from APK file, support self-defined rules**
+
+> **Rating**: 🌟🌟🌟🌟🌟        |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
 
 
 ***
@@ -1150,5 +1229,9 @@ We would like to thanks the following security researchers for their valuable fe
 - **@0xHJK**
 - **@j3ssie**
 - **@Luci-d**
+- **@cnlnn**
+- **@yunxu1**
+- **@saeeddhqan**
+- **@Sofiane Lounici**
 
-&copy;<a href="https://github.com/monsterzer0" target="_blank">Monster  Zero Team</a> 2019
+&copy;<a href="https://github.com/monsterzer0" target="_blank">Monster  Zero Team</a> 2020

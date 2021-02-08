@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/version-2.0-blue.svg" alt="python 3.x">
   <img src="http://img.shields.io/badge/license-Mozilla-blue.svg?style=flat" alt="license">
- <img src="https://img.shields.io/badge/Scanners/Number-253-blue.svg" alt="number">
+ <img src="https://img.shields.io/badge/Scanners/Number-271-blue.svg" alt="number">
 </p>
 
 
@@ -35,6 +35,7 @@
 - [动态或静态代码审计](#动态或静态代码审计)
 - [模块化设计扫描器或漏洞评估框架](#模块化设计扫描器或漏洞评估框架)
 - [高级持续性威胁](#高级持续性威胁)
+- [移动应用代码分析](#移动应用代码分析)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -154,6 +155,22 @@
 
 > **评分**: 🌟🌟🌟🌟🌟         |         **编程语言**: **Python 3.x**         |         **仍在维护**: ✔️
 
+- https://github.com/yunxu1/dnsub - **基于Go语言的高并发和跨平台子域名扫描工具**
+
+> **评分**: 🌟🌟🌟🌟🌟         |         **编程语言**: **Go**         |         **仍在维护**: ✔️
+
+- https://github.com/shmilylty/OneForAll - **集成了多款子域名扫描工具的终极版子域名扫描器**
+
+> **评分**: 🌟🌟🌟🌟🌟         |         **编程语言**: **Python 3.x**         |         **仍在维护**: ✔️
+
+- https://github.com/knownsec/ksubdomain - **一款跨平台且无状态子域名爆破工具，Mac和Windows上理论最大发包速度在30w/s,linux上为160w/s**
+
+> **评分**: 🌟🌟🌟🌟🌟         |         **编程语言**: **Go**         |         **仍在维护**: ✔️
+
+- https://github.com/gwen001/github-subdomains - **在Github上搜索目标子域名**
+
+> **评分**: 🌟🌟🌟🌟         |         **编程语言**: **Go**         |         **仍在维护**: ✔️
+
 
 ### 数据库注入漏洞或认证爆破
 
@@ -216,6 +233,11 @@
 - https://github.com/m8r0wn/enumdb  - **MySQL以及MSSQL爆破脱裤工具**
 
 > **评分**: 🌟🌟🌟🌟         |         **编程语言**: **Python 3.x**         |         **仍在维护**: ✔️
+
+- https://github.com/tariqhawis/injectbot  - **一个基于Web的SQL注入扫描程序和漏洞利用工具**
+
+> **评分**: 🌟🌟🌟🌟         |         **编程语言**: **PHP**         |         **仍在维护**: ✔️
+
 
 ### 网站弱用户名或弱口令枚举爆破
 
@@ -301,6 +323,18 @@
 
 > **Rating**: 🌟🌟🌟🌟        |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
 
+- https://github.com/fcavallarin/domdig - **基于Chrome headless的DOM-XSS扫描器**
+
+> **Rating**: 🌟🌟🌟🌟🌟        |         **Language**: **Node.js**         |         **Ongoing[last 6 months]**: ✔️
+
+- https://github.com/lwzSoviet/NoXss - **基于Phantomjs的DOM-XSS和反射型XSS扫描器**
+
+> **Rating**: 🌟🌟🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✔️
+
+- https://github.com/pwn0sec/PwnXSS - **基于Python 3.7的多线程XSS扫描器**
+
+> **Rating**: 🌟🌟🌟🌟🌟        |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
+
 
 ### 企业资产管理或数据保护
 
@@ -359,6 +393,18 @@
 - https://github.com/VKSRC/Github-Monitor - **由vipkid SRC开发的Github信息泄漏监控系统**
 
 > **评分**: 🌟🌟🌟        |         **编程语言**: **Python 3.x**         |         **仍在维护**: ✔️
+
+- https://github.com/eth0izzle/shhgit - **基于Docker和Web的Github敏感信息泄漏监控系统**
+
+> **评分**: 🌟🌟🌟🌟🌟        |         **编程语言**: **Go**         |         **仍在维护**: ✔️
+
+- https://github.com/SAP/credential-digger - **基于机器学习去除误报的Github敏感信息泄漏扫描系统**
+
+> **评分**: 🌟🌟🌟🌟🌟        |         **编程语言**: **Python 3.x**         |         **仍在维护**: ✔️
+
+- https://github.com/TophantTechnology/ARL - **敏捷资产侦查管理系统**
+
+> **评分**: 🌟🌟🌟🌟🌟        |         **编程语言**: **Python 3.x**         |         **仍在维护**: ✔️
 
 
 ### 恶意脚本或木马检测
@@ -644,6 +690,11 @@
 - https://github.com/1N3/BlackWidow - **Web站点信息搜集工具，包括邮箱、电话等信息**
 
 > **评分**: 🌟🌟🌟        |         **编程语言**: **Python 2.x**         |         **仍在维护**: ✖️
+
+
+- https://github.com/saeeddhqan/Maryam - **基于Recon-ng的开源情报（OSINT）收集和Web指纹识别的模块化框架**
+
+> **评分**: 🌟🌟🌟🌟        |         **编程语言**: **Python 3.x**         |         **仍在维护**: ✔️
 
 
 ### 特殊组件或漏洞类型扫描
@@ -1010,7 +1061,7 @@
 
 - https://github.com/Lucifer1993/AngelSword - **被动式漏洞扫描，支持历史cve编号漏洞识别**
 
-> **评分**: 🌟🌟🌟🌟        |         **编程语言**: **Python 3.x**         |         **仍在维护**: ✔️
+> **评分**: 🌟🌟🌟🌟        |         **编程语言**: **Python 3.x**         |         **仍在维护**: ✖️
 
 - https://github.com/zaproxy/zaproxy - **The OWASP ZAP core project出品的综合性渗透测试工具**
 
@@ -1084,6 +1135,22 @@
 
 > **Rating**: 🌟🌟🌟🌟🌟        |         **Language**: **Go**         |         **Ongoing[last 6 months]**: ✔️
 
+- https://github.com/TideSec/Mars - **WDScanner重铸版**
+
+> **Rating**: 🌟🌟🌟🌟🌟        |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
+
+- https://github.com/knassar702/scant3r - **又一款网友定制扫描器**
+
+> **Rating**: 🌟🌟🌟        |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
+
+- https://github.com/google/tsunami-security-scanner - **谷歌出品的可扩展高效漏洞扫描器**
+
+> **Rating**: 🌟🌟🌟🌟🌟        |         **Language**: **Java**         |         **Ongoing[last 6 months]**: ✔️
+
+- https://github.com/er10yi/MagiCude - **基于Spring Boot微服务架构的扫描器,支持分布式端口（漏洞）扫描、资产安全管理、实时威胁监控与通知、自动漏洞闭环、漏洞wiki、邮件通知等功能。**
+
+> **Rating**: 🌟🌟🌟🌟🌟        |         **Language**: **Java**         |         **Ongoing[last 6 months]**: ✔️
+
 
 ### 高级持续性威胁
 
@@ -1094,6 +1161,16 @@
 - https://github.com/Neo23x0/Loki - **根据公开情报库里的IOC信息检索本地是否存在相同hash、相似文本内容的文件或与恶意C2的网络连接**
 
 > **评分**: 🌟🌟🌟🌟🌟        |         **编程语言**: **Bash Shell**         |         **仍在维护**: ✔️
+
+### 移动应用代码分析
+
+- https://github.com/dwisiswant0/apkleaks - **扫描APK文件中的URL、接口与密钥泄露等风险**
+
+> **评分**: 🌟🌟🌟🌟🌟        |         **编程语言**: **Python 2.x**         |         **仍在维护**: ✔️
+
+- https://github.com/kelvinBen/AppInfoScanner - **APK文件信息搜集工具，支持自定义规则**
+
+> **评分**: 🌟🌟🌟🌟🌟        |         **编程语言**: **Python 3.x**         |         **仍在维护**: ✔️
 
 
 ***
@@ -1152,5 +1229,9 @@ scanbox在Mozilla协议条款下发布
 - **@0xHJK**
 - **@j3ssie**
 - **@Luci-d**
+- **@cnlnn**
+- **@yunxu1**
+- **@saeeddhqan**
+- **@Sofiane Lounici**
 
-&copy;<a href="https://github.com/monsterzer0" target="_blank">Monster Zero Team</a> 2019
+&copy;<a href="https://github.com/monsterzer0" target="_blank">Monster Zero Team</a> 2020
